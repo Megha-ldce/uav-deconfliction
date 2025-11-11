@@ -26,7 +26,7 @@ A comprehensive system for detecting spatial and temporal conflicts in shared ai
 ### 1. Clone or Download the Project
 
 ```bash
-git clone <your-repo-url>
+git clone < https://github.com/Megha-ldce/uav-deconfliction.git>
 cd uav-deconfliction
 ```
 
