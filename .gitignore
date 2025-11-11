@@ -1,0 +1,29 @@
+# Python virtual environment folders
+venv/
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS, IDE, and editor junk files
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Output, media, and large data files
+outputs/
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.csv
+*.h5
+
+# Log files
+*.log
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
